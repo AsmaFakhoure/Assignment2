@@ -1,0 +1,5 @@
+[2021-05-30 08:46:16,703] {scheduler_job.py:182} INFO - Started process (PID=1565) to work on /opt/airflow/dags/csv_to_json.py
+[2021-05-30 08:46:16,940] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csv_to_json.py for tasks to queue
+[2021-05-30 08:46:16,951] {logging_mixin.py:104} INFO - [2021-05-30 08:46:16,951] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_json.py
+[2021-05-30 08:46:16,953] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csv_to_json.py
+[2021-05-30 08:46:17,233] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csv_to_json.py took 0.535 seconds

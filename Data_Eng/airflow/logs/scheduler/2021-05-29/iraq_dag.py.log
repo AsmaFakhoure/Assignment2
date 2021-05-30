@@ -1,0 +1,742 @@
+[2021-05-29 22:04:46,924] {scheduler_job.py:182} INFO - Started process (PID=19531) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:04:46,927] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 22:04:46,929] {logging_mixin.py:104} INFO - [2021-05-29 22:04:46,929] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:04:47,083] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:04:47,308] {logging_mixin.py:104} INFO - [2021-05-29 22:04:47,308] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 22:04:47,400] {logging_mixin.py:104} INFO - [2021-05-29 22:04:47,399] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 22:04:47,871] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.977 seconds
+[2021-05-29 22:05:18,754] {scheduler_job.py:182} INFO - Started process (PID=19564) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:05:18,757] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 22:05:18,759] {logging_mixin.py:104} INFO - [2021-05-29 22:05:18,758] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:05:18,827] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:05:18,930] {logging_mixin.py:104} INFO - [2021-05-29 22:05:18,930] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 22:05:19,003] {logging_mixin.py:104} INFO - [2021-05-29 22:05:19,003] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 22:05:19,363] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.619 seconds
+[2021-05-29 22:05:49,755] {scheduler_job.py:182} INFO - Started process (PID=19597) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:05:49,758] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 22:05:49,760] {logging_mixin.py:104} INFO - [2021-05-29 22:05:49,760] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:05:49,946] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:05:50,028] {logging_mixin.py:104} INFO - [2021-05-29 22:05:50,028] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 22:05:50,095] {logging_mixin.py:104} INFO - [2021-05-29 22:05:50,094] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 22:05:50,237] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.489 seconds
+[2021-05-29 22:06:20,491] {scheduler_job.py:182} INFO - Started process (PID=19630) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:06:20,494] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 22:06:20,496] {logging_mixin.py:104} INFO - [2021-05-29 22:06:20,496] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:06:20,581] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:06:20,622] {logging_mixin.py:104} INFO - [2021-05-29 22:06:20,622] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 22:06:20,658] {logging_mixin.py:104} INFO - [2021-05-29 22:06:20,658] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 22:06:20,812] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.329 seconds
+[2021-05-29 22:06:51,330] {scheduler_job.py:182} INFO - Started process (PID=19663) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:06:51,335] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 22:06:51,337] {logging_mixin.py:104} INFO - [2021-05-29 22:06:51,337] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:06:51,398] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:06:51,449] {logging_mixin.py:104} INFO - [2021-05-29 22:06:51,449] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 22:06:51,489] {logging_mixin.py:104} INFO - [2021-05-29 22:06:51,488] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 22:06:51,754] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.431 seconds
+[2021-05-29 22:07:22,018] {scheduler_job.py:182} INFO - Started process (PID=19696) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:07:22,021] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 22:07:22,023] {logging_mixin.py:104} INFO - [2021-05-29 22:07:22,023] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:07:22,081] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:07:22,129] {logging_mixin.py:104} INFO - [2021-05-29 22:07:22,129] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 22:07:22,219] {logging_mixin.py:104} INFO - [2021-05-29 22:07:22,219] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 22:07:22,348] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.339 seconds
+[2021-05-29 22:07:53,896] {scheduler_job.py:182} INFO - Started process (PID=19729) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:07:53,898] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 22:07:53,900] {logging_mixin.py:104} INFO - [2021-05-29 22:07:53,899] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:07:53,942] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:07:53,979] {logging_mixin.py:104} INFO - [2021-05-29 22:07:53,979] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 22:07:54,005] {logging_mixin.py:104} INFO - [2021-05-29 22:07:54,005] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 22:07:54,155] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.263 seconds
+[2021-05-29 22:59:16,535] {scheduler_job.py:182} INFO - Started process (PID=63) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:59:16,713] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 22:59:16,721] {logging_mixin.py:104} INFO - [2021-05-29 22:59:16,721] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:59:18,150] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 22:59:18,981] {logging_mixin.py:104} INFO - [2021-05-29 22:59:18,981] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 22:59:19,811] {logging_mixin.py:104} INFO - [2021-05-29 22:59:19,811] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 22:59:20,748] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 4.237 seconds
+[2021-05-29 23:02:04,853] {scheduler_job.py:182} INFO - Started process (PID=107) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:02:04,863] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:02:04,870] {logging_mixin.py:104} INFO - [2021-05-29 23:02:04,869] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:02:05,798] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:02:06,222] {logging_mixin.py:104} INFO - [2021-05-29 23:02:06,222] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:02:06,423] {logging_mixin.py:104} INFO - [2021-05-29 23:02:06,422] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:02:07,034] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 2.187 seconds
+[2021-05-29 23:02:37,103] {scheduler_job.py:182} INFO - Started process (PID=140) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:02:37,106] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:02:37,108] {logging_mixin.py:104} INFO - [2021-05-29 23:02:37,108] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:02:37,161] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:02:37,194] {logging_mixin.py:104} INFO - [2021-05-29 23:02:37,194] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:02:37,228] {logging_mixin.py:104} INFO - [2021-05-29 23:02:37,228] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:02:37,474] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.375 seconds
+[2021-05-29 23:08:46,904] {scheduler_job.py:182} INFO - Started process (PID=211) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:08:46,962] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:08:47,021] {logging_mixin.py:104} INFO - [2021-05-29 23:08:47,021] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:08:48,037] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:08:48,207] {logging_mixin.py:104} INFO - [2021-05-29 23:08:48,206] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:08:48,506] {logging_mixin.py:104} INFO - [2021-05-29 23:08:48,503] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:08:49,326] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 2.428 seconds
+[2021-05-29 23:09:20,517] {scheduler_job.py:182} INFO - Started process (PID=244) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:09:20,521] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:09:20,523] {logging_mixin.py:104} INFO - [2021-05-29 23:09:20,522] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:09:20,678] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:09:20,832] {logging_mixin.py:104} INFO - [2021-05-29 23:09:20,830] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:09:20,945] {logging_mixin.py:104} INFO - [2021-05-29 23:09:20,945] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:09:21,095] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.585 seconds
+[2021-05-29 23:09:56,074] {scheduler_job.py:182} INFO - Started process (PID=277) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:09:56,077] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:09:56,078] {logging_mixin.py:104} INFO - [2021-05-29 23:09:56,078] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:09:56,135] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:09:56,162] {logging_mixin.py:104} INFO - [2021-05-29 23:09:56,162] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:09:56,205] {logging_mixin.py:104} INFO - [2021-05-29 23:09:56,205] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:09:56,450] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.381 seconds
+[2021-05-29 23:11:33,472] {scheduler_job.py:182} INFO - Started process (PID=301) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:11:33,514] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:11:33,516] {logging_mixin.py:104} INFO - [2021-05-29 23:11:33,516] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:11:33,648] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:11:33,683] {logging_mixin.py:104} INFO - [2021-05-29 23:11:33,683] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:11:33,708] {logging_mixin.py:104} INFO - [2021-05-29 23:11:33,708] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:11:33,937] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.470 seconds
+[2021-05-29 23:12:11,358] {scheduler_job.py:182} INFO - Started process (PID=332) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:12:11,361] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:12:11,365] {logging_mixin.py:104} INFO - [2021-05-29 23:12:11,364] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:12:11,435] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:12:11,469] {logging_mixin.py:104} INFO - [2021-05-29 23:12:11,469] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:12:11,510] {logging_mixin.py:104} INFO - [2021-05-29 23:12:11,510] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:12:11,724] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.374 seconds
+[2021-05-29 23:12:45,040] {scheduler_job.py:182} INFO - Started process (PID=365) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:12:45,043] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:12:45,045] {logging_mixin.py:104} INFO - [2021-05-29 23:12:45,045] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:12:45,103] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:12:45,125] {logging_mixin.py:104} INFO - [2021-05-29 23:12:45,125] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:12:45,204] {logging_mixin.py:104} INFO - [2021-05-29 23:12:45,203] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:12:45,878] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.847 seconds
+[2021-05-29 23:13:22,538] {scheduler_job.py:182} INFO - Started process (PID=401) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:13:22,541] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:13:22,543] {logging_mixin.py:104} INFO - [2021-05-29 23:13:22,542] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:13:22,599] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:13:22,658] {logging_mixin.py:104} INFO - [2021-05-29 23:13:22,658] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:13:22,722] {logging_mixin.py:104} INFO - [2021-05-29 23:13:22,721] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:13:24,121] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 1.588 seconds
+[2021-05-29 23:13:54,866] {scheduler_job.py:182} INFO - Started process (PID=435) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:13:54,869] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:13:54,873] {logging_mixin.py:104} INFO - [2021-05-29 23:13:54,872] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:13:55,197] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:13:55,314] {logging_mixin.py:104} INFO - [2021-05-29 23:13:55,314] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:13:55,377] {logging_mixin.py:104} INFO - [2021-05-29 23:13:55,377] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:13:56,127] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 1.268 seconds
+[2021-05-29 23:14:26,316] {scheduler_job.py:182} INFO - Started process (PID=468) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:14:26,321] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:14:26,323] {logging_mixin.py:104} INFO - [2021-05-29 23:14:26,322] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:14:26,379] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:14:26,410] {logging_mixin.py:104} INFO - [2021-05-29 23:14:26,410] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:14:26,450] {logging_mixin.py:104} INFO - [2021-05-29 23:14:26,450] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:14:27,116] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.807 seconds
+[2021-05-29 23:14:57,493] {scheduler_job.py:182} INFO - Started process (PID=501) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:14:57,506] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:14:57,523] {logging_mixin.py:104} INFO - [2021-05-29 23:14:57,522] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:14:57,803] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:14:57,923] {logging_mixin.py:104} INFO - [2021-05-29 23:14:57,923] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:14:58,132] {logging_mixin.py:104} INFO - [2021-05-29 23:14:58,132] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:14:58,881] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 1.409 seconds
+[2021-05-29 23:15:29,446] {scheduler_job.py:182} INFO - Started process (PID=535) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:15:29,450] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:15:29,452] {logging_mixin.py:104} INFO - [2021-05-29 23:15:29,451] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:15:29,574] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:15:29,703] {logging_mixin.py:104} INFO - [2021-05-29 23:15:29,703] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:15:29,807] {logging_mixin.py:104} INFO - [2021-05-29 23:15:29,806] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:15:30,530] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 1.089 seconds
+[2021-05-29 23:16:02,300] {scheduler_job.py:182} INFO - Started process (PID=568) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:16:02,303] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:16:02,305] {logging_mixin.py:104} INFO - [2021-05-29 23:16:02,304] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:16:02,420] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:16:02,458] {logging_mixin.py:104} INFO - [2021-05-29 23:16:02,457] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:16:02,517] {logging_mixin.py:104} INFO - [2021-05-29 23:16:02,517] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:16:02,905] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.610 seconds
+[2021-05-29 23:16:34,338] {scheduler_job.py:182} INFO - Started process (PID=603) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:16:34,342] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:16:34,344] {logging_mixin.py:104} INFO - [2021-05-29 23:16:34,344] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:16:34,427] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:16:34,489] {logging_mixin.py:104} INFO - [2021-05-29 23:16:34,489] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:16:34,635] {logging_mixin.py:104} INFO - [2021-05-29 23:16:34,635] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:16:34,896] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.568 seconds
+[2021-05-29 23:17:05,088] {scheduler_job.py:182} INFO - Started process (PID=637) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:17:05,090] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:17:05,092] {logging_mixin.py:104} INFO - [2021-05-29 23:17:05,092] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:17:05,206] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:17:05,281] {logging_mixin.py:104} INFO - [2021-05-29 23:17:05,281] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:17:05,368] {logging_mixin.py:104} INFO - [2021-05-29 23:17:05,367] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:17:05,466] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.386 seconds
+[2021-05-29 23:17:36,197] {scheduler_job.py:182} INFO - Started process (PID=670) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:17:36,200] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:17:36,207] {logging_mixin.py:104} INFO - [2021-05-29 23:17:36,206] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:17:36,315] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:17:36,350] {logging_mixin.py:104} INFO - [2021-05-29 23:17:36,349] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:17:36,453] {logging_mixin.py:104} INFO - [2021-05-29 23:17:36,453] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:17:36,863] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.675 seconds
+[2021-05-29 23:18:07,863] {scheduler_job.py:182} INFO - Started process (PID=704) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:18:07,866] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:18:07,868] {logging_mixin.py:104} INFO - [2021-05-29 23:18:07,867] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:18:07,945] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:18:08,024] {logging_mixin.py:104} INFO - [2021-05-29 23:18:08,024] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:18:08,100] {logging_mixin.py:104} INFO - [2021-05-29 23:18:08,099] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:18:08,175] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.319 seconds
+[2021-05-29 23:18:38,553] {scheduler_job.py:182} INFO - Started process (PID=737) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:18:38,556] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:18:38,558] {logging_mixin.py:104} INFO - [2021-05-29 23:18:38,558] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:18:38,657] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:18:38,734] {logging_mixin.py:104} INFO - [2021-05-29 23:18:38,734] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:18:38,857] {logging_mixin.py:104} INFO - [2021-05-29 23:18:38,856] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:18:39,040] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.497 seconds
+[2021-05-29 23:19:09,538] {scheduler_job.py:182} INFO - Started process (PID=770) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:19:09,552] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:19:09,559] {logging_mixin.py:104} INFO - [2021-05-29 23:19:09,559] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:19:09,731] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:19:09,834] {logging_mixin.py:104} INFO - [2021-05-29 23:19:09,834] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:19:09,962] {logging_mixin.py:104} INFO - [2021-05-29 23:19:09,961] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:19:10,104] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.577 seconds
+[2021-05-29 23:19:42,172] {scheduler_job.py:182} INFO - Started process (PID=804) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:19:42,175] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:19:42,177] {logging_mixin.py:104} INFO - [2021-05-29 23:19:42,176] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:19:42,270] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:19:42,329] {logging_mixin.py:104} INFO - [2021-05-29 23:19:42,329] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:19:42,398] {logging_mixin.py:104} INFO - [2021-05-29 23:19:42,397] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:19:43,631] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 1.469 seconds
+[2021-05-29 23:20:15,434] {scheduler_job.py:182} INFO - Started process (PID=837) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:20:15,436] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:20:15,438] {logging_mixin.py:104} INFO - [2021-05-29 23:20:15,438] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:20:15,502] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:20:15,543] {logging_mixin.py:104} INFO - [2021-05-29 23:20:15,542] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:20:15,581] {logging_mixin.py:104} INFO - [2021-05-29 23:20:15,581] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:20:15,792] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.365 seconds
+[2021-05-29 23:20:46,109] {scheduler_job.py:182} INFO - Started process (PID=870) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:20:46,114] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:20:46,117] {logging_mixin.py:104} INFO - [2021-05-29 23:20:46,116] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:20:46,233] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:20:46,295] {logging_mixin.py:104} INFO - [2021-05-29 23:20:46,294] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:20:46,376] {logging_mixin.py:104} INFO - [2021-05-29 23:20:46,375] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:20:46,621] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.532 seconds
+[2021-05-29 23:21:17,216] {scheduler_job.py:182} INFO - Started process (PID=902) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:21:17,219] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:21:17,220] {logging_mixin.py:104} INFO - [2021-05-29 23:21:17,220] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:21:17,292] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:21:17,396] {logging_mixin.py:104} INFO - [2021-05-29 23:21:17,395] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:21:17,548] {logging_mixin.py:104} INFO - [2021-05-29 23:21:17,548] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:21:17,796] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.585 seconds
+[2021-05-29 23:21:48,437] {scheduler_job.py:182} INFO - Started process (PID=935) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:21:48,439] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:21:48,440] {logging_mixin.py:104} INFO - [2021-05-29 23:21:48,440] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:21:48,495] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:21:48,528] {logging_mixin.py:104} INFO - [2021-05-29 23:21:48,527] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:21:48,559] {logging_mixin.py:104} INFO - [2021-05-29 23:21:48,559] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:21:48,727] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.296 seconds
+[2021-05-29 23:22:19,130] {scheduler_job.py:182} INFO - Started process (PID=968) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:22:19,133] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:22:19,135] {logging_mixin.py:104} INFO - [2021-05-29 23:22:19,134] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:22:19,228] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:22:19,283] {logging_mixin.py:104} INFO - [2021-05-29 23:22:19,283] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:22:19,371] {logging_mixin.py:104} INFO - [2021-05-29 23:22:19,370] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:22:19,517] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.396 seconds
+[2021-05-29 23:22:50,032] {scheduler_job.py:182} INFO - Started process (PID=1001) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:22:50,037] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:22:50,040] {logging_mixin.py:104} INFO - [2021-05-29 23:22:50,040] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:22:50,131] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:22:50,166] {logging_mixin.py:104} INFO - [2021-05-29 23:22:50,166] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:22:50,242] {logging_mixin.py:104} INFO - [2021-05-29 23:22:50,242] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:22:51,160] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 1.139 seconds
+[2021-05-29 23:23:21,236] {scheduler_job.py:182} INFO - Started process (PID=1034) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:23:21,244] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:23:21,246] {logging_mixin.py:104} INFO - [2021-05-29 23:23:21,246] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:23:21,308] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:23:21,348] {logging_mixin.py:104} INFO - [2021-05-29 23:23:21,348] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:23:21,425] {logging_mixin.py:104} INFO - [2021-05-29 23:23:21,425] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:23:21,584] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.361 seconds
+[2021-05-29 23:23:52,691] {scheduler_job.py:182} INFO - Started process (PID=1067) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:23:52,695] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:23:52,697] {logging_mixin.py:104} INFO - [2021-05-29 23:23:52,697] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:23:52,912] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:23:53,102] {logging_mixin.py:104} INFO - [2021-05-29 23:23:53,102] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:23:53,300] {logging_mixin.py:104} INFO - [2021-05-29 23:23:53,300] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:23:53,439] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.763 seconds
+[2021-05-29 23:24:23,751] {scheduler_job.py:182} INFO - Started process (PID=1100) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:24:23,756] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:24:23,761] {logging_mixin.py:104} INFO - [2021-05-29 23:24:23,760] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:24:23,927] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:24:24,128] {logging_mixin.py:104} INFO - [2021-05-29 23:24:24,127] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:24:24,244] {logging_mixin.py:104} INFO - [2021-05-29 23:24:24,243] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:24:24,421] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.678 seconds
+[2021-05-29 23:24:54,989] {scheduler_job.py:182} INFO - Started process (PID=1133) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:24:54,992] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:24:54,998] {logging_mixin.py:104} INFO - [2021-05-29 23:24:54,997] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:24:55,076] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:24:55,116] {logging_mixin.py:104} INFO - [2021-05-29 23:24:55,116] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:24:55,142] {logging_mixin.py:104} INFO - [2021-05-29 23:24:55,142] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:24:55,262] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.288 seconds
+[2021-05-29 23:25:25,720] {scheduler_job.py:182} INFO - Started process (PID=1166) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:25:25,722] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:25:25,724] {logging_mixin.py:104} INFO - [2021-05-29 23:25:25,724] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:25:25,787] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:25:25,817] {logging_mixin.py:104} INFO - [2021-05-29 23:25:25,816] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:25:25,856] {logging_mixin.py:104} INFO - [2021-05-29 23:25:25,856] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:25:26,083] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.368 seconds
+[2021-05-29 23:25:56,598] {scheduler_job.py:182} INFO - Started process (PID=1199) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:25:56,605] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:25:56,608] {logging_mixin.py:104} INFO - [2021-05-29 23:25:56,607] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:25:56,873] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:25:57,071] {logging_mixin.py:104} INFO - [2021-05-29 23:25:57,071] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:25:57,141] {logging_mixin.py:104} INFO - [2021-05-29 23:25:57,141] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:25:57,209] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.624 seconds
+[2021-05-29 23:26:27,287] {scheduler_job.py:182} INFO - Started process (PID=1231) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:26:27,292] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:26:27,295] {logging_mixin.py:104} INFO - [2021-05-29 23:26:27,294] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:26:27,407] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:26:27,482] {logging_mixin.py:104} INFO - [2021-05-29 23:26:27,481] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:26:27,540] {logging_mixin.py:104} INFO - [2021-05-29 23:26:27,540] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:26:27,598] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.318 seconds
+[2021-05-29 23:26:58,005] {scheduler_job.py:182} INFO - Started process (PID=1264) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:26:58,007] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:26:58,010] {logging_mixin.py:104} INFO - [2021-05-29 23:26:58,010] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:26:58,065] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:26:58,090] {logging_mixin.py:104} INFO - [2021-05-29 23:26:58,090] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:26:58,125] {logging_mixin.py:104} INFO - [2021-05-29 23:26:58,125] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:26:58,176] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.179 seconds
+[2021-05-29 23:27:28,772] {scheduler_job.py:182} INFO - Started process (PID=1297) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:27:28,775] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:27:28,778] {logging_mixin.py:104} INFO - [2021-05-29 23:27:28,778] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:27:28,910] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:27:28,975] {logging_mixin.py:104} INFO - [2021-05-29 23:27:28,974] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:27:29,036] {logging_mixin.py:104} INFO - [2021-05-29 23:27:29,036] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:27:30,639] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 1.874 seconds
+[2021-05-29 23:28:01,346] {scheduler_job.py:182} INFO - Started process (PID=1331) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:28:01,349] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:28:01,351] {logging_mixin.py:104} INFO - [2021-05-29 23:28:01,351] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:28:01,448] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:28:01,505] {logging_mixin.py:104} INFO - [2021-05-29 23:28:01,505] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:28:01,548] {logging_mixin.py:104} INFO - [2021-05-29 23:28:01,547] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:28:01,955] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.619 seconds
+[2021-05-29 23:28:32,063] {scheduler_job.py:182} INFO - Started process (PID=1364) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:28:32,067] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:28:32,069] {logging_mixin.py:104} INFO - [2021-05-29 23:28:32,068] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:28:32,169] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:28:32,305] {logging_mixin.py:104} INFO - [2021-05-29 23:28:32,305] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:28:32,385] {logging_mixin.py:104} INFO - [2021-05-29 23:28:32,384] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:28:32,546] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.493 seconds
+[2021-05-29 23:29:02,712] {scheduler_job.py:182} INFO - Started process (PID=1397) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:29:02,718] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:29:02,721] {logging_mixin.py:104} INFO - [2021-05-29 23:29:02,720] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:29:02,805] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:29:02,867] {logging_mixin.py:104} INFO - [2021-05-29 23:29:02,867] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:29:02,924] {logging_mixin.py:104} INFO - [2021-05-29 23:29:02,923] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:29:02,978] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.276 seconds
+[2021-05-29 23:29:33,236] {scheduler_job.py:182} INFO - Started process (PID=1430) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:29:33,249] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:29:33,251] {logging_mixin.py:104} INFO - [2021-05-29 23:29:33,251] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:29:33,352] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:29:33,416] {logging_mixin.py:104} INFO - [2021-05-29 23:29:33,416] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:29:33,451] {logging_mixin.py:104} INFO - [2021-05-29 23:29:33,451] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:29:33,598] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.371 seconds
+[2021-05-29 23:30:03,919] {scheduler_job.py:182} INFO - Started process (PID=1463) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:30:03,928] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:30:03,930] {logging_mixin.py:104} INFO - [2021-05-29 23:30:03,930] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:30:04,027] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:30:04,078] {logging_mixin.py:104} INFO - [2021-05-29 23:30:04,078] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:30:04,158] {logging_mixin.py:104} INFO - [2021-05-29 23:30:04,157] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:30:04,346] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.438 seconds
+[2021-05-29 23:30:35,289] {scheduler_job.py:182} INFO - Started process (PID=1497) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:30:35,292] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:30:35,296] {logging_mixin.py:104} INFO - [2021-05-29 23:30:35,295] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:30:35,427] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:30:35,551] {logging_mixin.py:104} INFO - [2021-05-29 23:30:35,550] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:30:35,625] {logging_mixin.py:104} INFO - [2021-05-29 23:30:35,625] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:30:35,725] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.445 seconds
+[2021-05-29 23:31:05,879] {scheduler_job.py:182} INFO - Started process (PID=1530) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:31:05,881] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:31:05,883] {logging_mixin.py:104} INFO - [2021-05-29 23:31:05,882] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:31:05,927] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:31:05,958] {logging_mixin.py:104} INFO - [2021-05-29 23:31:05,958] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:31:05,985] {logging_mixin.py:104} INFO - [2021-05-29 23:31:05,984] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:31:06,123] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.249 seconds
+[2021-05-29 23:31:36,374] {scheduler_job.py:182} INFO - Started process (PID=1563) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:31:36,384] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:31:36,396] {logging_mixin.py:104} INFO - [2021-05-29 23:31:36,394] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:31:36,610] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:31:36,683] {logging_mixin.py:104} INFO - [2021-05-29 23:31:36,683] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:31:36,766] {logging_mixin.py:104} INFO - [2021-05-29 23:31:36,765] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:31:37,048] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.681 seconds
+[2021-05-29 23:32:07,157] {scheduler_job.py:182} INFO - Started process (PID=1596) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:32:07,162] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:32:07,165] {logging_mixin.py:104} INFO - [2021-05-29 23:32:07,164] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:32:07,249] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:32:07,325] {logging_mixin.py:104} INFO - [2021-05-29 23:32:07,325] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:32:07,373] {logging_mixin.py:104} INFO - [2021-05-29 23:32:07,373] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:32:07,716] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.572 seconds
+[2021-05-29 23:32:38,923] {scheduler_job.py:182} INFO - Started process (PID=1629) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:32:38,925] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:32:38,929] {logging_mixin.py:104} INFO - [2021-05-29 23:32:38,929] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:32:39,002] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:32:39,061] {logging_mixin.py:104} INFO - [2021-05-29 23:32:39,060] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:32:39,292] {logging_mixin.py:104} INFO - [2021-05-29 23:32:39,291] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:32:39,528] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.613 seconds
+[2021-05-29 23:33:09,644] {scheduler_job.py:182} INFO - Started process (PID=1662) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:33:09,647] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:33:09,649] {logging_mixin.py:104} INFO - [2021-05-29 23:33:09,649] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:33:09,717] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:33:09,812] {logging_mixin.py:104} INFO - [2021-05-29 23:33:09,812] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:33:09,883] {logging_mixin.py:104} INFO - [2021-05-29 23:33:09,882] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:33:10,102] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.464 seconds
+[2021-05-29 23:33:40,284] {scheduler_job.py:182} INFO - Started process (PID=1695) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:33:40,287] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:33:40,290] {logging_mixin.py:104} INFO - [2021-05-29 23:33:40,289] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:33:40,364] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:33:40,410] {logging_mixin.py:104} INFO - [2021-05-29 23:33:40,410] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:33:40,446] {logging_mixin.py:104} INFO - [2021-05-29 23:33:40,446] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:33:40,629] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.352 seconds
+[2021-05-29 23:34:10,943] {scheduler_job.py:182} INFO - Started process (PID=1728) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:34:10,953] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:34:10,955] {logging_mixin.py:104} INFO - [2021-05-29 23:34:10,955] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:34:11,094] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:34:11,162] {logging_mixin.py:104} INFO - [2021-05-29 23:34:11,162] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:34:11,248] {logging_mixin.py:104} INFO - [2021-05-29 23:34:11,248] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:34:11,297] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.364 seconds
+[2021-05-29 23:34:41,848] {scheduler_job.py:182} INFO - Started process (PID=1761) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:34:41,850] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:34:41,852] {logging_mixin.py:104} INFO - [2021-05-29 23:34:41,852] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:34:41,897] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:34:41,925] {logging_mixin.py:104} INFO - [2021-05-29 23:34:41,925] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:34:41,952] {logging_mixin.py:104} INFO - [2021-05-29 23:34:41,952] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:34:42,147] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.304 seconds
+[2021-05-29 23:35:12,716] {scheduler_job.py:182} INFO - Started process (PID=1794) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:35:12,719] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:35:12,732] {logging_mixin.py:104} INFO - [2021-05-29 23:35:12,731] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:35:12,919] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:35:13,099] {logging_mixin.py:104} INFO - [2021-05-29 23:35:13,096] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:35:13,212] {logging_mixin.py:104} INFO - [2021-05-29 23:35:13,211] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:35:13,533] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.830 seconds
+[2021-05-29 23:35:43,744] {scheduler_job.py:182} INFO - Started process (PID=1827) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:35:43,746] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:35:43,748] {logging_mixin.py:104} INFO - [2021-05-29 23:35:43,748] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:35:43,792] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:35:43,826] {logging_mixin.py:104} INFO - [2021-05-29 23:35:43,826] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:35:43,853] {logging_mixin.py:104} INFO - [2021-05-29 23:35:43,853] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:35:44,290] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.551 seconds
+[2021-05-29 23:36:16,903] {scheduler_job.py:182} INFO - Started process (PID=1860) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:36:16,906] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:36:16,909] {logging_mixin.py:104} INFO - [2021-05-29 23:36:16,908] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:36:17,007] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:36:17,094] {logging_mixin.py:104} INFO - [2021-05-29 23:36:17,094] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:36:17,179] {logging_mixin.py:104} INFO - [2021-05-29 23:36:17,179] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:36:17,625] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.730 seconds
+[2021-05-29 23:36:50,120] {scheduler_job.py:182} INFO - Started process (PID=1894) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:36:50,122] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:36:50,124] {logging_mixin.py:104} INFO - [2021-05-29 23:36:50,124] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:36:50,329] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:36:50,377] {logging_mixin.py:104} INFO - [2021-05-29 23:36:50,377] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:36:50,418] {logging_mixin.py:104} INFO - [2021-05-29 23:36:50,417] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:36:50,634] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.520 seconds
+[2021-05-29 23:37:22,039] {scheduler_job.py:182} INFO - Started process (PID=1928) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:37:22,043] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:37:22,045] {logging_mixin.py:104} INFO - [2021-05-29 23:37:22,045] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:37:22,126] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:37:22,196] {logging_mixin.py:104} INFO - [2021-05-29 23:37:22,196] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:37:22,253] {logging_mixin.py:104} INFO - [2021-05-29 23:37:22,253] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:37:22,312] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.284 seconds
+[2021-05-29 23:37:53,086] {scheduler_job.py:182} INFO - Started process (PID=1961) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:37:53,090] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:37:53,105] {logging_mixin.py:104} INFO - [2021-05-29 23:37:53,105] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:37:53,273] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:37:53,376] {logging_mixin.py:104} INFO - [2021-05-29 23:37:53,376] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:37:53,487] {logging_mixin.py:104} INFO - [2021-05-29 23:37:53,486] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:37:53,657] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.600 seconds
+[2021-05-29 23:38:23,876] {scheduler_job.py:182} INFO - Started process (PID=1994) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:38:23,879] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:38:23,880] {logging_mixin.py:104} INFO - [2021-05-29 23:38:23,880] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:38:23,944] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:38:23,988] {logging_mixin.py:104} INFO - [2021-05-29 23:38:23,988] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:38:24,018] {logging_mixin.py:104} INFO - [2021-05-29 23:38:24,018] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:38:24,211] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.341 seconds
+[2021-05-29 23:38:54,523] {scheduler_job.py:182} INFO - Started process (PID=2027) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:38:54,526] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:38:54,528] {logging_mixin.py:104} INFO - [2021-05-29 23:38:54,528] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:38:55,113] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:38:55,214] {logging_mixin.py:104} INFO - [2021-05-29 23:38:55,213] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:38:55,323] {logging_mixin.py:104} INFO - [2021-05-29 23:38:55,323] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:38:55,581] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 1.066 seconds
+[2021-05-29 23:39:25,966] {scheduler_job.py:182} INFO - Started process (PID=2060) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:39:25,969] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:39:25,971] {logging_mixin.py:104} INFO - [2021-05-29 23:39:25,971] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:39:26,034] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:39:26,078] {logging_mixin.py:104} INFO - [2021-05-29 23:39:26,078] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:39:26,114] {logging_mixin.py:104} INFO - [2021-05-29 23:39:26,114] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:39:26,277] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.318 seconds
+[2021-05-29 23:39:57,048] {scheduler_job.py:182} INFO - Started process (PID=2093) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:39:57,063] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:39:57,066] {logging_mixin.py:104} INFO - [2021-05-29 23:39:57,066] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:39:57,210] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:39:57,263] {logging_mixin.py:104} INFO - [2021-05-29 23:39:57,262] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:39:57,308] {logging_mixin.py:104} INFO - [2021-05-29 23:39:57,307] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:39:57,454] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.440 seconds
+[2021-05-29 23:40:40,600] {scheduler_job.py:182} INFO - Started process (PID=2128) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:40:40,602] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:40:40,604] {logging_mixin.py:104} INFO - [2021-05-29 23:40:40,604] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:40:40,665] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:40:40,693] {logging_mixin.py:104} INFO - [2021-05-29 23:40:40,693] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:40:40,727] {logging_mixin.py:104} INFO - [2021-05-29 23:40:40,727] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:40:40,917] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.326 seconds
+[2021-05-29 23:41:11,417] {scheduler_job.py:182} INFO - Started process (PID=2161) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:41:11,422] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:41:11,429] {logging_mixin.py:104} INFO - [2021-05-29 23:41:11,428] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:41:11,545] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:41:11,625] {logging_mixin.py:104} INFO - [2021-05-29 23:41:11,625] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:41:11,718] {logging_mixin.py:104} INFO - [2021-05-29 23:41:11,717] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:41:11,917] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.510 seconds
+[2021-05-29 23:41:42,636] {scheduler_job.py:182} INFO - Started process (PID=2195) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:41:42,639] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:41:42,641] {logging_mixin.py:104} INFO - [2021-05-29 23:41:42,641] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:41:42,710] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:41:42,754] {logging_mixin.py:104} INFO - [2021-05-29 23:41:42,754] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:41:42,800] {logging_mixin.py:104} INFO - [2021-05-29 23:41:42,800] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:41:42,987] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.362 seconds
+[2021-05-29 23:42:13,285] {scheduler_job.py:182} INFO - Started process (PID=2228) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:42:13,288] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:42:13,290] {logging_mixin.py:104} INFO - [2021-05-29 23:42:13,290] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:42:13,435] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:42:13,487] {logging_mixin.py:104} INFO - [2021-05-29 23:42:13,487] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:42:13,595] {logging_mixin.py:104} INFO - [2021-05-29 23:42:13,594] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:42:13,834] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.558 seconds
+[2021-05-29 23:42:45,132] {scheduler_job.py:182} INFO - Started process (PID=2262) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:42:45,146] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:42:45,150] {logging_mixin.py:104} INFO - [2021-05-29 23:42:45,149] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:42:45,287] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:42:45,351] {logging_mixin.py:104} INFO - [2021-05-29 23:42:45,350] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:42:45,401] {logging_mixin.py:104} INFO - [2021-05-29 23:42:45,401] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:42:46,438] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 1.325 seconds
+[2021-05-29 23:43:17,072] {scheduler_job.py:182} INFO - Started process (PID=2295) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:43:17,075] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:43:17,077] {logging_mixin.py:104} INFO - [2021-05-29 23:43:17,076] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:43:17,135] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:43:17,170] {logging_mixin.py:104} INFO - [2021-05-29 23:43:17,170] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:43:17,197] {logging_mixin.py:104} INFO - [2021-05-29 23:43:17,197] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:43:17,353] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.288 seconds
+[2021-05-29 23:43:47,771] {scheduler_job.py:182} INFO - Started process (PID=2328) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:43:47,773] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:43:47,775] {logging_mixin.py:104} INFO - [2021-05-29 23:43:47,775] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:43:47,832] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:43:47,856] {logging_mixin.py:104} INFO - [2021-05-29 23:43:47,856] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:43:47,884] {logging_mixin.py:104} INFO - [2021-05-29 23:43:47,883] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:43:48,057] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.292 seconds
+[2021-05-29 23:44:18,623] {scheduler_job.py:182} INFO - Started process (PID=2361) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:44:18,626] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:44:18,628] {logging_mixin.py:104} INFO - [2021-05-29 23:44:18,627] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:44:18,681] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:44:18,722] {logging_mixin.py:104} INFO - [2021-05-29 23:44:18,722] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:44:18,749] {logging_mixin.py:104} INFO - [2021-05-29 23:44:18,749] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:44:18,875] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.261 seconds
+[2021-05-29 23:44:49,166] {scheduler_job.py:182} INFO - Started process (PID=2394) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:44:49,171] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:44:49,174] {logging_mixin.py:104} INFO - [2021-05-29 23:44:49,174] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:44:49,265] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:44:49,322] {logging_mixin.py:104} INFO - [2021-05-29 23:44:49,322] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:44:49,372] {logging_mixin.py:104} INFO - [2021-05-29 23:44:49,372] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:44:49,519] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.363 seconds
+[2021-05-29 23:45:20,137] {scheduler_job.py:182} INFO - Started process (PID=2427) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:45:20,140] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:45:20,142] {logging_mixin.py:104} INFO - [2021-05-29 23:45:20,142] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:45:20,235] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:45:20,273] {logging_mixin.py:104} INFO - [2021-05-29 23:45:20,272] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:45:20,324] {logging_mixin.py:104} INFO - [2021-05-29 23:45:20,324] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:45:20,476] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.347 seconds
+[2021-05-29 23:45:50,558] {scheduler_job.py:182} INFO - Started process (PID=2460) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:45:50,565] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:45:50,568] {logging_mixin.py:104} INFO - [2021-05-29 23:45:50,567] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:45:50,746] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:45:50,829] {logging_mixin.py:104} INFO - [2021-05-29 23:45:50,829] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:45:50,873] {logging_mixin.py:104} INFO - [2021-05-29 23:45:50,873] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:45:50,987] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.445 seconds
+[2021-05-29 23:46:21,097] {scheduler_job.py:182} INFO - Started process (PID=2493) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:46:21,101] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:46:21,103] {logging_mixin.py:104} INFO - [2021-05-29 23:46:21,103] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:46:21,229] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:46:21,310] {logging_mixin.py:104} INFO - [2021-05-29 23:46:21,310] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:46:21,372] {logging_mixin.py:104} INFO - [2021-05-29 23:46:21,372] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:46:21,436] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.353 seconds
+[2021-05-29 23:46:51,979] {scheduler_job.py:182} INFO - Started process (PID=2526) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:46:51,983] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:46:51,985] {logging_mixin.py:104} INFO - [2021-05-29 23:46:51,984] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:46:52,050] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:46:52,075] {logging_mixin.py:104} INFO - [2021-05-29 23:46:52,075] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:46:52,107] {logging_mixin.py:104} INFO - [2021-05-29 23:46:52,106] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:46:52,268] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.297 seconds
+[2021-05-29 23:47:22,796] {scheduler_job.py:182} INFO - Started process (PID=2559) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:47:22,798] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:47:22,800] {logging_mixin.py:104} INFO - [2021-05-29 23:47:22,800] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:47:22,854] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:47:22,891] {logging_mixin.py:104} INFO - [2021-05-29 23:47:22,891] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:47:22,917] {logging_mixin.py:104} INFO - [2021-05-29 23:47:22,917] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:47:23,006] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.219 seconds
+[2021-05-29 23:47:53,339] {scheduler_job.py:182} INFO - Started process (PID=2592) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:47:53,342] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:47:53,343] {logging_mixin.py:104} INFO - [2021-05-29 23:47:53,343] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:47:53,409] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:47:53,441] {logging_mixin.py:104} INFO - [2021-05-29 23:47:53,440] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:47:53,469] {logging_mixin.py:104} INFO - [2021-05-29 23:47:53,469] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:47:53,574] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.241 seconds
+[2021-05-29 23:48:23,975] {scheduler_job.py:182} INFO - Started process (PID=2625) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:48:23,978] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:48:23,980] {logging_mixin.py:104} INFO - [2021-05-29 23:48:23,979] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:48:24,041] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:48:24,067] {logging_mixin.py:104} INFO - [2021-05-29 23:48:24,067] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:48:24,096] {logging_mixin.py:104} INFO - [2021-05-29 23:48:24,096] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:48:24,487] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.519 seconds
+[2021-05-29 23:48:55,309] {scheduler_job.py:182} INFO - Started process (PID=2658) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:48:55,312] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:48:55,313] {logging_mixin.py:104} INFO - [2021-05-29 23:48:55,313] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:48:55,392] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:48:55,446] {logging_mixin.py:104} INFO - [2021-05-29 23:48:55,445] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:48:55,479] {logging_mixin.py:104} INFO - [2021-05-29 23:48:55,478] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:48:55,689] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.387 seconds
+[2021-05-29 23:49:26,661] {scheduler_job.py:182} INFO - Started process (PID=2692) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:49:26,668] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:49:26,671] {logging_mixin.py:104} INFO - [2021-05-29 23:49:26,671] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:49:26,751] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:49:26,788] {logging_mixin.py:104} INFO - [2021-05-29 23:49:26,787] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:49:26,820] {logging_mixin.py:104} INFO - [2021-05-29 23:49:26,820] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:49:26,988] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.339 seconds
+[2021-05-29 23:49:57,802] {scheduler_job.py:182} INFO - Started process (PID=2726) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:49:57,804] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:49:57,805] {logging_mixin.py:104} INFO - [2021-05-29 23:49:57,805] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:49:57,858] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:49:57,888] {logging_mixin.py:104} INFO - [2021-05-29 23:49:57,888] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:49:57,932] {logging_mixin.py:104} INFO - [2021-05-29 23:49:57,932] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:49:57,982] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.185 seconds
+[2021-05-29 23:50:28,507] {scheduler_job.py:182} INFO - Started process (PID=2759) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:50:28,509] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:50:28,511] {logging_mixin.py:104} INFO - [2021-05-29 23:50:28,511] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:50:28,555] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:50:28,590] {logging_mixin.py:104} INFO - [2021-05-29 23:50:28,590] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:50:28,615] {logging_mixin.py:104} INFO - [2021-05-29 23:50:28,615] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:50:28,777] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.276 seconds
+[2021-05-29 23:50:59,594] {scheduler_job.py:182} INFO - Started process (PID=2792) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:50:59,596] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:50:59,598] {logging_mixin.py:104} INFO - [2021-05-29 23:50:59,598] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:50:59,642] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:50:59,675] {logging_mixin.py:104} INFO - [2021-05-29 23:50:59,675] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:50:59,701] {logging_mixin.py:104} INFO - [2021-05-29 23:50:59,701] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:50:59,869] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.280 seconds
+[2021-05-29 23:51:31,196] {scheduler_job.py:182} INFO - Started process (PID=2829) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:51:31,203] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:51:31,205] {logging_mixin.py:104} INFO - [2021-05-29 23:51:31,204] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:51:31,264] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:51:31,341] {logging_mixin.py:104} INFO - [2021-05-29 23:51:31,341] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:51:31,380] {logging_mixin.py:104} INFO - [2021-05-29 23:51:31,380] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:51:31,538] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.350 seconds
+[2021-05-29 23:52:01,995] {scheduler_job.py:182} INFO - Started process (PID=2863) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:52:02,002] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:52:02,006] {logging_mixin.py:104} INFO - [2021-05-29 23:52:02,005] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:52:02,096] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:52:02,153] {logging_mixin.py:104} INFO - [2021-05-29 23:52:02,152] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:52:02,222] {logging_mixin.py:104} INFO - [2021-05-29 23:52:02,222] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:52:02,459] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.471 seconds
+[2021-05-29 23:52:32,712] {scheduler_job.py:182} INFO - Started process (PID=2896) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:52:32,717] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:52:32,723] {logging_mixin.py:104} INFO - [2021-05-29 23:52:32,722] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:52:32,868] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:52:32,955] {logging_mixin.py:104} INFO - [2021-05-29 23:52:32,955] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:52:32,997] {logging_mixin.py:104} INFO - [2021-05-29 23:52:32,997] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:52:33,251] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.546 seconds
+[2021-05-29 23:53:03,871] {scheduler_job.py:182} INFO - Started process (PID=2929) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:53:03,873] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:53:03,874] {logging_mixin.py:104} INFO - [2021-05-29 23:53:03,874] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:53:03,960] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:53:04,031] {logging_mixin.py:104} INFO - [2021-05-29 23:53:04,031] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:53:04,103] {logging_mixin.py:104} INFO - [2021-05-29 23:53:04,102] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:53:04,198] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.332 seconds
+[2021-05-29 23:53:34,551] {scheduler_job.py:182} INFO - Started process (PID=2962) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:53:34,556] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:53:34,558] {logging_mixin.py:104} INFO - [2021-05-29 23:53:34,558] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:53:34,627] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:53:34,697] {logging_mixin.py:104} INFO - [2021-05-29 23:53:34,697] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:53:34,776] {logging_mixin.py:104} INFO - [2021-05-29 23:53:34,776] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:53:34,877] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.340 seconds
+[2021-05-29 23:54:05,826] {scheduler_job.py:182} INFO - Started process (PID=2996) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:54:05,831] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:54:05,832] {logging_mixin.py:104} INFO - [2021-05-29 23:54:05,832] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:54:05,889] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:54:05,924] {logging_mixin.py:104} INFO - [2021-05-29 23:54:05,924] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:54:05,961] {logging_mixin.py:104} INFO - [2021-05-29 23:54:05,961] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:54:06,008] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.188 seconds
+[2021-05-29 23:54:36,379] {scheduler_job.py:182} INFO - Started process (PID=3029) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:54:36,386] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:54:36,388] {logging_mixin.py:104} INFO - [2021-05-29 23:54:36,388] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:54:36,652] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:54:36,698] {logging_mixin.py:104} INFO - [2021-05-29 23:54:36,698] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:54:36,759] {logging_mixin.py:104} INFO - [2021-05-29 23:54:36,759] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:54:36,911] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.537 seconds
+[2021-05-29 23:55:07,221] {scheduler_job.py:182} INFO - Started process (PID=3062) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:55:07,225] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:55:07,227] {logging_mixin.py:104} INFO - [2021-05-29 23:55:07,227] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:55:07,275] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:55:07,311] {logging_mixin.py:104} INFO - [2021-05-29 23:55:07,311] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:55:07,336] {logging_mixin.py:104} INFO - [2021-05-29 23:55:07,336] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:55:07,563] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.347 seconds
+[2021-05-29 23:55:37,734] {scheduler_job.py:182} INFO - Started process (PID=3095) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:55:37,736] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:55:37,738] {logging_mixin.py:104} INFO - [2021-05-29 23:55:37,737] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:55:37,786] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:55:37,844] {logging_mixin.py:104} INFO - [2021-05-29 23:55:37,844] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:55:37,894] {logging_mixin.py:104} INFO - [2021-05-29 23:55:37,894] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:55:37,955] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.226 seconds
+[2021-05-29 23:56:08,587] {scheduler_job.py:182} INFO - Started process (PID=3128) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:56:08,590] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:56:08,592] {logging_mixin.py:104} INFO - [2021-05-29 23:56:08,592] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:56:08,648] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:56:08,700] {logging_mixin.py:104} INFO - [2021-05-29 23:56:08,699] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:56:08,738] {logging_mixin.py:104} INFO - [2021-05-29 23:56:08,738] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:56:08,777] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.196 seconds
+[2021-05-29 23:56:39,031] {scheduler_job.py:182} INFO - Started process (PID=3160) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:56:39,036] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:56:39,040] {logging_mixin.py:104} INFO - [2021-05-29 23:56:39,039] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:56:39,137] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:56:39,199] {logging_mixin.py:104} INFO - [2021-05-29 23:56:39,198] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:56:39,263] {logging_mixin.py:104} INFO - [2021-05-29 23:56:39,263] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:56:39,447] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.423 seconds
+[2021-05-29 23:57:09,544] {scheduler_job.py:182} INFO - Started process (PID=3193) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:57:09,547] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:57:09,548] {logging_mixin.py:104} INFO - [2021-05-29 23:57:09,548] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:57:09,618] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:57:09,669] {logging_mixin.py:104} INFO - [2021-05-29 23:57:09,669] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:57:09,711] {logging_mixin.py:104} INFO - [2021-05-29 23:57:09,711] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:57:09,892] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.356 seconds
+[2021-05-29 23:57:39,960] {scheduler_job.py:182} INFO - Started process (PID=3226) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:57:39,962] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:57:39,963] {logging_mixin.py:104} INFO - [2021-05-29 23:57:39,963] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:57:40,010] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:57:40,040] {logging_mixin.py:104} INFO - [2021-05-29 23:57:40,040] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:57:40,064] {logging_mixin.py:104} INFO - [2021-05-29 23:57:40,064] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:57:40,135] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.180 seconds
+[2021-05-29 23:58:10,636] {scheduler_job.py:182} INFO - Started process (PID=3259) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:58:10,638] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:58:10,640] {logging_mixin.py:104} INFO - [2021-05-29 23:58:10,640] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:58:10,684] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:58:10,709] {logging_mixin.py:104} INFO - [2021-05-29 23:58:10,709] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:58:10,739] {logging_mixin.py:104} INFO - [2021-05-29 23:58:10,739] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:58:10,784] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.153 seconds
+[2021-05-29 23:58:41,124] {scheduler_job.py:182} INFO - Started process (PID=3292) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:58:41,126] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:58:41,127] {logging_mixin.py:104} INFO - [2021-05-29 23:58:41,127] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:58:41,181] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:58:41,217] {logging_mixin.py:104} INFO - [2021-05-29 23:58:41,216] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:58:41,254] {logging_mixin.py:104} INFO - [2021-05-29 23:58:41,254] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:58:41,347] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.228 seconds
+[2021-05-29 23:59:12,093] {scheduler_job.py:182} INFO - Started process (PID=3325) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:59:12,102] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:59:12,105] {logging_mixin.py:104} INFO - [2021-05-29 23:59:12,104] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:59:12,196] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:59:12,271] {logging_mixin.py:104} INFO - [2021-05-29 23:59:12,271] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:59:12,362] {logging_mixin.py:104} INFO - [2021-05-29 23:59:12,362] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:59:12,477] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.393 seconds
+[2021-05-29 23:59:43,123] {scheduler_job.py:182} INFO - Started process (PID=3357) to work on /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:59:43,127] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/iraq_dag.py for tasks to queue
+[2021-05-29 23:59:43,129] {logging_mixin.py:104} INFO - [2021-05-29 23:59:43,129] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:59:43,175] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['iraq_scoring_report']) retrieved from /opt/airflow/dags/iraq_dag.py
+[2021-05-29 23:59:43,199] {logging_mixin.py:104} INFO - [2021-05-29 23:59:43,199] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-29 23:59:43,226] {logging_mixin.py:104} INFO - [2021-05-29 23:59:43,226] {dag.py:2273} INFO - Setting next_dagrun for iraq_scoring_report to 2021-05-29 00:00:00+00:00
+[2021-05-29 23:59:43,272] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/iraq_dag.py took 0.156 seconds
